@@ -31,14 +31,6 @@ export const metadata: Metadata = {
       'RoyalCrest Bank offers secure, seamless digital banking. Open an account, transfer funds, manage deposits, and more.',
     url: 'https://royalcrestfinancials.com',
     siteName: 'RoyalCrest Bank',
-    images: [
-      {
-        url: '/banklogo.png',
-        width: 1200,
-        height: 630,
-        alt: 'RoyalCrest Bank',
-      },
-    ],
     type: 'website',
   },
   twitter: {
@@ -46,7 +38,6 @@ export const metadata: Metadata = {
     title: 'RoyalCrest Bank — Secure Banking for Everyone',
     description:
       'RoyalCrest Bank offers secure, seamless digital banking. Open an account, transfer funds, manage deposits, and more.',
-    images: ['/banklogo.png'],
   },
 }
 
